@@ -595,5 +595,3 @@ Kedua metode dibandingkan dengan menggunakan ukuran akurasi yang sama, yaitu aku
 # 📋 Kesimpulan Metode Terbaik
 
 Berdasarkan hasil evaluasi metrik, DES dengan parameter optimal adalah metode peramalan terbaik untuk data suhu maksimum ini, dengan MSE data uji paling rendah (2,73) dibanding DMA (3,14) dan jauh lebih baik dibanding SES yang MSE-nya berkisar 17,42 sampai 24,10 tergantung parameter alpha yang dipakai. Hal ini karena DES mampu menangkap pola tren pada data, sedangkan SES hanya menangkap komponen level sehingga errornya jauh lebih besar.
-
-
